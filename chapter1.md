@@ -1,8 +1,23 @@
 # First Chapter
 
-Item Response Theory (IRT) is a theoretical model. It is conceptualized  to interpret the relationships between items (questions) and respondents (people) with probabilistic features. 
+Item Response Theory (IRT) is a theoretical model. It is conceptualized  to interpret the relationships between items (questions) and respondents (people) with probabilistic features.
+
+This theory is heavily influenced by the test development in the united states
+
+
+
+
+
 
 In order to understand its definition, structure, and interpretation in data analysis, we need have the following prior knowledge. 
+
+## Notations 
+
+
+
+
+
+
 
 * Testing theories
 
