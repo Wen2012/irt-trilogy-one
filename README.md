@@ -37,9 +37,20 @@ From taxonomy to "fitness", then he reviewed the commonly used methods:
 ###**Some concepts in multivariate analysis**
 * objects and **attributes**
 * replication - "off-sets", the extensions of a two-dimensional matrix or facets in directions orthogonal to itself (Data Box by Cattell, 1966)
-* 
-****
 
-attributes- predictor/independent/variables
-            criterion/dependent varialbes
-            
+
+
+**attributes-** 
+* predictor/independent/variables
+* criterion/dependent variables
+* distruber varaibles
+
+** Metric **
+ * origins of zero and standard deviation
+ * some multivariate analysis procedures are independent of unit and origin of measurement, or or linear transformation.
+ * linear relationships among the variables involved
+ * methos of making non-linear transformation of simple variables:
+    *  transcendental functions such as logarithmic, trigonometric or exponential
+    *  area transformation, convert arbitrary distributions to rectangular or normal form - table or polynomial transformation
+    *  
+ 
