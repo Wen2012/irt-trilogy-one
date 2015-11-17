@@ -34,9 +34,12 @@ From taxonomy to "fitness", then he reviewed the commonly used methods:
 
 
 
-**Some concepts in multivariate analysis**
-## 
+###**Some concepts in multivariate analysis**
+* objects and **attributes**
+* replication - "off-sets", the extensions of a two-dimensional matrix or facets in directions orthogonal to itself (Data Box by Cattell, 1966)
+* 
+****
 
-
-* objects and attributes
-* replication
+attributes- predictor/independent/variables
+            criterion/dependent varialbes
+            
