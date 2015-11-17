@@ -58,5 +58,4 @@ From taxonomy to "fitness", then he reviewed the commonly used methods:
 
 ---
 
-```p^{*}_{x_{g} } \equiv prob[X_{g}\geq x_{g} \mid \theta  ]=\Pi _{u\leq x_{g} } M_{u}\left(\theta \right)  ```
- 
+            $$p^{*}_{x_{g} } \equiv prob[X_{g}\geq x_{g} \mid \theta  ]=\Pi _{u\leq x_{g} } M_{u}\left(\theta \right)  $$
