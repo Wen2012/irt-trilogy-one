@@ -25,4 +25,18 @@ From taxonomy to "fitness", then he reviewed the commonly used methods:
 5. **Differential prediction**, magnifying differences of prediction and selection rather than concerning oneself with absolute prediction.
 6. **Multidimensional scaling**, a relative of factor analysis. 
 7. **Multiple discriminant functions**, maximizing the separation of individuals on pre-assigned groupings. 
-8. **Configural and type analysis**, discovering natually existing segregations of entities in groups by varous dimensional properties.
+8. **Configural and type analysis**, discovering natually existing segregations of entities in groups by various dimensional properties, including measuring the 'distance apart' of individuals.
+9. **Latent class analysis**, a further form of "typing" with special restrictions;
+10. **Study of the action of modifier variables and modulator action
+**, i.e. the change in relations of two variables according to level oa third, etc.
+
+
+
+
+
+**Some concepts in multivariate analysis**
+## 
+
+
+* objects and attributes
+* replication
