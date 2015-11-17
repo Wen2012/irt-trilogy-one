@@ -53,10 +53,6 @@ From taxonomy to "fitness", then he reviewed the commonly used methods:
     *  transcendental functions such as logarithmic, trigonometric or exponential
     *  area transformation, convert arbitrary distributions to rectangular or normal form - table or polynomial transformation
 
-
-
-
----
 COC in Samejima;s 
 
 $$p^{*}_{x_{g} } \equiv prob[X_{g}\geq x_{g} \mid \theta  ]=\Pi _{u\leq x_{g} } M_{u}\left(\theta \right)  $$
