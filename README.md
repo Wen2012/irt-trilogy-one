@@ -57,5 +57,5 @@ COC in Samejima;s
 
 $$p^{*}_{x_{g} } \equiv prob[X_{g}\geq x_{g} \mid \theta  ]=\Pi _{u\leq x_{g} } M_{u}\left(\theta \right)  $$
 
-
+$$I_{ik} \left(\theta \right) =-\frac{\partial^{2} }{\partial\theta^{2} } \log P_{ik\left(\theta \right) } $$
 
